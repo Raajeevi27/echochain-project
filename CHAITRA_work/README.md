@@ -1,11 +1,12 @@
-# Chaitra's Work
+# Chaitra's Contributions
 
-This folder contains my contributions to the EchoChain project.
+This folder identifies my work for the EchoChain project.
 
-## Contents
+Files contributed:
+- 01_data_profiling.ipynb
+- 02_marketplace_visualization.ipynb
+- 03_feature_engineering.ipynb
+- 04_business_insights.ipynb
+- secondary_market_analysis.md
 
-- Data Profiling Notebook
-- Marketplace Visualization
-- Feature Engineering
-- Business Insights
-- Secondary Market Analysis Documentation
+Note: The notebooks are currently stored in the repository root to match the team's existing repository structure.
